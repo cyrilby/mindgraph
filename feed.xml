@@ -3,12 +3,50 @@
     <title>MindGraph</title>
     <link href="https://cyrilby.github.io/mindgraph/feed.xml" rel="self" />
     <link href="https://cyrilby.github.io/mindgraph" />
-    <updated>2024-04-06T21:07:09+02:00</updated>
+    <updated>2024-04-06T22:23:00+02:00</updated>
     <author>
         <name>Kiril</name>
     </author>
     <id>https://cyrilby.github.io/mindgraph</id>
 
+    <entry>
+        <title>Development of ETL pipelines</title>
+        <author>
+            <name>Kiril</name>
+        </author>
+        <link href="https://cyrilby.github.io/mindgraph/development-of-etl-pipelines.html"/>
+        <id>https://cyrilby.github.io/mindgraph/development-of-etl-pipelines.html</id>
+            <category term="Services"/>
+
+        <updated>2024-04-06T21:39:03+02:00</updated>
+            <summary>
+                <![CDATA[
+                    In today's world, we're surrounded by systems and tools that generate data. These data contain a vast amount of information,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>In today's world, we're surrounded by systems and tools that generate data. These data contain a <strong>vast amount of information</strong>, which can help us understand important processes, confirm or disprove our beliefs or classify and predict outcomes.</p>
+<h2>What is Extract, Transform and Load (ETL)?</h2>
+<p>A common challenge with transforming data into powerful insights is that the data often comes from <strong>different</strong> <strong>sources</strong> and in <strong>different</strong> <strong>formats</strong>, making it challenging to use as it is. This is where developing an <strong>Extract, Transform and Load (ETL)</strong> pipeline can come in handy. By linking data from different sources and transforming it according to rules relevant for your business, you can build a solid fundament for your reporting, business intelligence or statistical/machine learning modelling.</p>
+<h2>What are the benefits of having proper ETL pipelines?</h2>
+<p>There are many ways in which having clean, well-structured and easily accessible data may benefit your organisation:</p>
+<figure class="post__image"><img loading="lazy"  src="https://cyrilby.github.io/mindgraph/media/posts/11/Benefits-of-ETL-pipelines.svg" alt="" width="1280" height="800"></figure>
+<p>Here's how having proper data collection and cleaning processes can bring value to your organisation:</p>
+<ul>
+<li><strong>Enhanced decision making</strong>: clean data leads to more accurate analysis, which can improve decision-making.</li>
+<li><strong>Improved operational efficiency</strong>: clean data can streamline business processes, removing redundancies and silo work and ensuring that a single source of truth is available in the organisation, leading to an increased efficiency reliability.</li>
+<li><strong>Increased customer acquisition and retention</strong>: accurate data can help in better understanding the customers, leading to more effective marketing strategies and increased customer acquisition</li>
+<li><strong>Improved talent acquisition and retention</strong>: similarly to product and customer data, data on your talent acquisition, employee experience, remuneration and career development can help you attract and retain the talent your organisation needs to perform at its best.</li>
+<li><strong>Increased revenue</strong>: with improved decision-making and customer acquisition, companies can see an increase in revenue.</li>
+<li><strong>Increased employee productivity</strong>: with access to clean and reliable data, employees can be more productive as they don’t have to spend time dealing with inaccurate data.</li>
+<li><strong>Minimised waste of time and money</strong>: cleaning data helps in avoiding mistakes that could cost the company in terms of time and money.</li>
+</ul>
+<p>In summary, ETL and data cleaning are <strong>integral</strong> <strong>parts</strong> of handling data in any organisational context. They help to ensure that the data is <strong>accurate</strong>, <strong>reliable</strong>, and in a format that is <strong>easy to analyse</strong>, leading to more informed decision-making and improved business outcomes.</p>
+<p>If you are interested in automating or improving your existing data flows or if you need assistance setting up access to external data sources, feel free to reach out at <a href="mailto:kirilboyanovbg@gmail.com">kirilboyanovbg@gmail.com</a> for a <strong>free, no-strings-attached 30 minutes meeting </strong>where we can discuss your needs in more detail.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Fra data til indsigter</title>
         <author>
@@ -173,7 +211,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p dir="ltr">During my <strong>5+ years of full-time experience</strong>, I've had the opportunity to work on a wide variety of tasks spanning from data collection, transformation and analysis to presenting insights and onboarding users to interactive tools and reports. The <strong>various</strong> <strong>roles</strong> I've held have thought me the importance of relating data to a <strong>business</strong> <strong>context</strong>, tailoring analyses and reports to the <strong>end user's needs</strong> as well as how best to support <strong>non-technical people</strong> in getting the most out of the tools I've built.</p>
+                <p dir="ltr">During my <strong>5+ years of full-time experience</strong>, I've had the opportunity to work on a wide variety of tasks spanning from data collection, transformation and analysis to presenting insights and onboarding users to interactive tools and reports. The various roles I've held have thought me the importance of relating data to a business context, tailoring analyses and reports to the end user's needs as well as how best to support non-technical people in getting the most out of the tools I've built.</p>
 <p dir="ltr">On this page, you can read more about what services I offer and the kinds of data I'm most experienced with.</p>
 <h2 dir="ltr">What can I do for you?</h2>
 <p dir="ltr">Some of the areas in which I can help you include:</p>
@@ -181,7 +219,7 @@
 <li dir="ltr" role="presentation">Data extract, transform and load (ETL) project scoping</li>
 <li>Business Intelligence (BI) &amp; reporting project scoping</li>
 <li>Analytics/data science project scoping</li>
-<li>Development of ETL processes (R, Python, Power Query, SQL)</li>
+<li><a href="https://cyrilby.github.io/mindgraph/development-of-etl-pipelines.html">Development of ETL pipelines</a> (R, Python, Power Query, SQL)</li>
 <li>Data collection from structured and unstructured sources and data clean-up (R, Python, SQL)</li>
 <li>Creating, publishing and onboarding users to Power BI reports</li>
 <li>Creating, publishing and onboarding users to Streamlit data apps (Python)</li>
@@ -199,7 +237,7 @@
 <li>Cross-sectional data</li>
 <li>Time series data</li>
 </ul>
-<p>Common for all of the above is that the data is never perfect. However, it is my conviction that that should never prevent us from using to derive some insights! A proper data clean-up and making some sensible assumptions, combined with a clearly defined question you want to find an answer to go a long way to facilitating a good analytics product.</p>
+<p>Common for all of the above is that the <strong>data is never perfect</strong>. However, it is my conviction that that should never prevent us from using to derive insights! A proper <strong>data clean-up</strong> and making some <strong>sensible</strong> <strong>assumptions</strong>, combined with a clearly defined <strong>question</strong> you want to find an answer to go a long way to facilitating a good analytics product.</p>
             ]]>
         </content>
     </entry>
