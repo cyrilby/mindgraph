@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://cyrilby.github.io/mindgraph/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://cyrilby.github.io/mindgraph/</loc>
+</url>
+<url>
+<loc>https://cyrilby.github.io/mindgraph/about.html</loc>
+<lastmod>2024-03-30T13:51:00+01:00</lastmod>
+</url>
+<url>
+<loc>https://cyrilby.github.io/mindgraph/areas-of-expertise.html</loc>
+<lastmod>2024-03-30T17:47:34+01:00</lastmod>
+<image:image>
+<image:loc>https://cyrilby.github.io/mindgraph/media/posts/4/data-2311261-2.svg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://cyrilby.github.io/mindgraph/contact.html</loc>
+<lastmod>2024-04-01T18:36:41+02:00</lastmod>
+</url>
+<url>
+<loc>https://cyrilby.github.io/mindgraph/fra-data-til-indsigter.html</loc>
+<lastmod>2024-04-06T18:01:58+02:00</lastmod>
+</url>
+<url>
+<loc>https://cyrilby.github.io/mindgraph/from-data-to-insight.html</loc>
+<lastmod>2024-04-01T21:23:39+02:00</lastmod>
+<image:image>
+<image:loc>https://cyrilby.github.io/mindgraph/media/posts/5/gallery/Project-scoping-thumbnail.png</image:loc>
+<image:title><![CDATA[Defining the scope of an analytics or business intelligence project]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cyrilby.github.io/mindgraph/media/posts/5/gallery/Data-collection-thumbnail.png</image:loc>
+<image:title><![CDATA[Data collection from structured and unstructured sources]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cyrilby.github.io/mindgraph/media/posts/5/gallery/Survey-icon-thumbnail.png</image:loc>
+<image:title><![CDATA[Survey design and data collection]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cyrilby.github.io/mindgraph/media/posts/5/gallery/Data-cleaning-thumbnail.png</image:loc>
+<image:title><![CDATA[Data cleaning (building of extract, transform and load pipelines)]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cyrilby.github.io/mindgraph/media/posts/5/gallery/Data-analysis-thumbnail.png</image:loc>
+<image:title><![CDATA[Statistical data analysis, hypothesis testing, correlations, regressions]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cyrilby.github.io/mindgraph/media/posts/5/gallery/Data-visualization-thumbnail.png</image:loc>
+<image:title><![CDATA[Data visualisation using R, Python, Excel or Power BI]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cyrilby.github.io/mindgraph/media/posts/5/gallery/BI-reporting-thumbnail.png</image:loc>
+<image:title><![CDATA[Creating and deploying Power BI reports or Streamlit apps]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cyrilby.github.io/mindgraph/media/posts/5/gallery/ML-modelling-thumbnail.png</image:loc>
+<image:title><![CDATA[Building and applying predictive machine learning models]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cyrilby.github.io/mindgraph/media/posts/5/gallery/Insights-presentation-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cyrilby.github.io/mindgraph/media/posts/5/gallery/Insights-presentation-1-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://cyrilby.github.io/mindgraph/rentals-in-greater-copenhagen.html</loc>
+<lastmod>2024-04-01T21:05:31+02:00</lastmod>
+<image:image>
+<image:loc>https://cyrilby.github.io/mindgraph/media/posts/3/city-3105058_1280.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cyrilby.github.io/mindgraph/media/posts/3/Rentals-split-by-type-and-lease-duration.svg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cyrilby.github.io/mindgraph/media/posts/3/Median-rent-per-square-meter-by-rental-type.svg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cyrilby.github.io/mindgraph/media/posts/3/Insights-presentation-1.svg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://cyrilby.github.io/mindgraph/world-happiness-insights.html</loc>
+<lastmod>2024-04-02T21:10:41+02:00</lastmod>
+<image:image>
+<image:loc>https://cyrilby.github.io/mindgraph/media/posts/2/child-7344169_1280.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cyrilby.github.io/mindgraph/media/posts/2/Global-average-happiness-score-over-time.svg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cyrilby.github.io/mindgraph/media/posts/2/Different-factors-and-their-relative-impact-on-happiness-1.svg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cyrilby.github.io/mindgraph/media/posts/2/Insights-presentation.svg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
