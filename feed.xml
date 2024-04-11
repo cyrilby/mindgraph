@@ -3,7 +3,7 @@
     <title>MindGraph</title>
     <link href="https://cyrilby.github.io/mindgraph/feed.xml" rel="self" />
     <link href="https://cyrilby.github.io/mindgraph" />
-    <updated>2024-04-07T12:44:58+02:00</updated>
+    <updated>2024-04-11T22:06:14+02:00</updated>
     <author>
         <name>Kiril</name>
     </author>
@@ -58,12 +58,12 @@
         <updated>2024-04-01T22:27:18+02:00</updated>
             <summary>
                 <![CDATA[
-                    👋 Hej, jeg hedder Kiril, og velkommen til MindGraph: min lille, privatejede konsulentsfirma, som er specialiseret i at hjælpe dig&hellip;
+                    👋 Hej, jeg hedder Kiril, og velkommen til MindGraph: mit eget konsulentsfirma, specialiseret i at hjælpe dig med at omdanne&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p dir="ltr">👋<strong> Hej, jeg hedder Kiril, og velkommen til MindGraph</strong>: min lille, privatejede konsulentsfirma, som er specialiseret i at hjælpe dig med at omdanne dine data til  indsigter, som du kan handle på<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">. Jeg brænder for at finde sammenhænge i data samt bistå beslutningstagere med praktiske, databaserede anbefalinger.</span></p>
+                <p dir="ltr">👋<strong> Hej, jeg hedder Kiril, og velkommen til MindGraph</strong>: mit eget konsulentsfirma, specialiseret i at hjælpe dig med at omdanne dine data til  indsigter, som du kan handle på<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">. Jeg brænder for at finde sammenhænge i data samt bistå beslutningstagere med praktiske, databaserede anbefalinger.</span></p>
 <h2 dir="ltr">Få hjælp med dit projekt</h2>
 <p dir="ltr">Uanset om det drejer sig om at definere og afgrænse projekter, skabe ETL pipelines og BI rapporter eller udvikle prædiktive modeller, mit kendskab spreder sig over en <strong>bred vifte</strong> af datarelaterede opgaver.</p>
 <p dir="ltr"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Her er nogle af de <a href="https://cyrilby.github.io/mindgraph/areas-of-expertise.html">områder, hvorpå jeg kan bidrage</a>:</span></p>
@@ -93,6 +93,9 @@
 <figcaption>ML modellering</figcaption>
 </figure>
 </div></div>
+<h2 dir="ltr">Udforsk dine datas potentiale</h2>
+<p dir="ltr">Data er næsten aldrig perfekt, men det skal ikke forhindre os i at finde værdifulde indsigter i dem. Ved at kombinere din <strong>domæneviden</strong> og min <strong>dataekspertise</strong> kan vi teste dine hypoteser i praksis, fremhæve vigtige konklusioner og lave konkrete anbefalinger, som du kan handle på.<br><br>Kontakt mig venligst på <a href="mailto:info@mindgraph.dk">info@mindgraph.dk</a> for <strong>et gratis uforpligtende møde på 30 minutter</strong>, hvor vi kan diskutere dine behov og vores mulige samarbejde i forbindelse med dit projekt.</p>
+<h2 dir="ltr">Tag et kig på hvad MindGraph kan gøre for dig</h2>
 <p dir="ltr"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">For at se hvordan jeg har brugt mine evner i helt praktiske projekte, tag gerne et kig på nogle af de <a href="https://cyrilby.github.io/mindgraph/tags/projects/index.html">projekter, jeg har arbejdet på</a> indtil videre:</span></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://cyrilby.github.io/mindgraph/media/posts/9/gallery/Insights-presentation-thumbnail.png" data-size="768x1086"><img loading="lazy" src="https://cyrilby.github.io/mindgraph/media/posts/9/gallery/Insights-presentation-thumbnail-thumbnail.png" alt="" width="768" height="1086"></a>
@@ -102,9 +105,7 @@
 <figcaption>En undersøgelse af lejemarkedet i Storkøbenhavn med fokus på, hvad der er tilgængeligt, hvor meget det koster og hvorfor samt en forudsigelsesmodel for månedlig lejestørrelse</figcaption>
 </figure>
 </div></div>
-<p dir="ltr">I disse projekter har jeg nemlig været med til alt <strong>fra start til slut</strong>, dvs. at jeg både har indsalmet, renset og analyseret på dataene samt formidlet de endelige indisgter i menneskesprog.</p>
-<h2 dir="ltr">Udforsk dine datas potentiale</h2>
-<p dir="ltr">Data er næsten aldrig perfekt, men det skal ikke forhindre os i at finde værdifulde indsigter i dem. Ved at kombinere din <strong>domæneviden</strong> og min <strong>dataekspertise</strong> kan vi teste dine hypoteser i praksis, fremhæve vigtige konklusioner og lave konkrete anbefalinger, som du kan handle på.<br><br>Kontakt mig venligst på <a href="mailto:kirilboyanovbg@gmail.com">kirilboyanovbg@gmail.com</a> for <strong>et gratis og uforpligtende møde på 30 minutter</strong>, hvor vi kan diskutere dine behov og vores mulige samarbejde i forbindelse med dit projekt.</p>
+<p dir="ltr">I disse projekter har jeg nemlig været med til alt <strong>fra start til slut</strong>, dvs. at jeg både har indsalmet, renset og analyseret på dataene samt formidlet de endelige indisgter i menneskesprog. Jeg arbejder hele tiden på <strong>nye projekter</strong>, og du er altid velkommen til at <strong>tjekke</strong> den <a href="https://cyrilby.github.io/mindgraph/tags/projects/index.html">fulde liste</a> for at finde flere spændende ting!</p>
             ]]>
         </content>
     </entry>
@@ -126,7 +127,7 @@
             <![CDATA[
                 <p>If you have a potential project you'd like to discuss, we can arrange a free 30 minutes online meeting where we can talk about your needs and requirements and where we can align our expectations.</p>
 <ul>
-<li><strong>Email</strong>: if you'd like to make an inquiry, it's best to drop me a message at <a href="mailto:kirilboyanovbg@gmail.com">kirilboyanovbg@gmail.com</a>.</li>
+<li><strong>Email</strong>: if you'd like to make an inquiry, it's best to drop me a message at <a href="mailto:info@mindgraph.dk">info@mindgraph.dk</a>.</li>
 <li><strong>LinkedIn</strong>: you're also welcome to contact me via a private message. You can find my LinkedIn profile <a href="https://www.linkedin.com/in/kirilboyanov/" target="_blank" rel="noopener noreferrer">here</a>.</li>
 <li><strong>GitHub</strong>: my <a href="https://github.com/cyrilby" target="_blank" rel="noopener noreferrer">GitHub page</a> contains demos of some of the projects I've worked on in my spare time. Feel free to explore and get an idea of what I'd be able to do for you.</li>
 </ul>
@@ -144,12 +145,12 @@
         <updated>2024-03-28T14:36:30+01:00</updated>
             <summary>
                 <![CDATA[
-                    👋 Hello, my name is Kiril and welcome to MindGraph: my small, privately-owned consultancy specialised in helping you leverage your&hellip;
+                    👋 Hello, my name's Kiril and welcome to MindGraph: my private consultancy specialised in helping you leverage your data by&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p dir="ltr">👋<strong> Hello, my name is Kiril and welcome to MindGraph</strong>: my small, privately-owned consultancy specialised in helping you leverage your <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">data by</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> transforming it into actionable insights. I am passionate about finding patterns in the data and providing decision-makers with practical, data-driven recommendations.</span></p>
+                <p dir="ltr">👋<strong> Hello, my name's Kiril and welcome to MindGraph</strong>: my private consultancy specialised in helping you leverage your <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">data by</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> transforming it into actionable insights. I am passionate about finding patterns in the data and providing decision-makers with practical, data-driven recommendations.</span></p>
 <h2 dir="ltr">Get help with your project</h2>
 <p dir="ltr">Whether it's scoping projects, creating data ETL pipelines and BI reports, or developing predi<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">ctive models, my expertise spans a <strong>broad spectrum</strong> of data-related services.</span></p>
 <p dir="ltr"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Here are some of the <a href="https://cyrilby.github.io/mindgraph/areas-of-expertise.html">areas I cover</a>:</span></p>
@@ -179,6 +180,10 @@
 <figcaption>ML modelling</figcaption>
 </figure>
 </div></div>
+<h2 dir="ltr">Unlock the potential of your data</h2>
+<p dir="ltr">Data is almost never perfect, but that doesn't deter me from using it to extract valuable insights. By combining your <strong>domain</strong> <strong>knowledge</strong> and my <strong>data</strong> <strong>expertise</strong>, we can test your hypotheses in practice, highlight important conclusions and recommend actions to address pressing challenges.</p>
+<p dir="ltr">Please reach out to me at <a href="mailto:info@mindgraph.dk">info@mindgraph.dk</a> for a <strong>free, no-strings-attached 30 minutes meeting</strong> where we can discuss your needs and do some initial project scoping.</p>
+<h2 dir="ltr">Take a peek at what MindGraph could do for you</h2>
 <p dir="ltr"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">To see how I've applied my skills in<strong> real-life situations</strong>, feel free to explore some of the <a href="https://cyrilby.github.io/mindgraph/tags/projects/index.html">projects I've worked on</a> in the past:</span></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://cyrilby.github.io/mindgraph/media/posts/5/gallery/Insights-presentation.png" data-size="793x1121"><img loading="lazy" src="https://cyrilby.github.io/mindgraph/media/posts/5/gallery/Insights-presentation-thumbnail.png" alt="" width="768" height="1086"></a>
@@ -188,10 +193,7 @@
 <figcaption>A study of the rentals market in Greater Copenhagen, with a focus on what's available, how much it costs and why as well as a predictive model for monthly rent size</figcaption>
 </figure>
 </div></div>
-<p dir="ltr">In these projects, I've taken care of the <strong>whole</strong> <strong>process</strong> from sourcing and cleaning the data to analysing it and communicating the insights in layman terms.</p>
-<h2 dir="ltr">Unlock the potential of your data</h2>
-<p dir="ltr">Data is almost never perfect, but that doesn't deter me from using it to extract valuable insights. By combining your <strong>domain</strong> <strong>knowledge</strong> and my <strong>data</strong> <strong>expertise</strong>, we can test your hypotheses in practice, highlight important conclusions and recommend actions to address pressing challenges.</p>
-<p dir="ltr">Please reach out to me at <a href="mailto:kirilboyanovbg@gmail.com">kirilboyanovbg@gmail.com </a>for a <strong>free, no-strings-attached 30 minutes meeting</strong> where we can discuss your needs and do some initial project scoping.</p>
+<p dir="ltr">In these projects, I've taken care of the <strong>whole</strong> <strong>process</strong> from sourcing and cleaning the data to analysing it and communicating the insights in layman terms. I constantly work on <strong>new</strong> <strong>projects</strong>, so feel free to <strong>check</strong> back the <a href="https://cyrilby.github.io/mindgraph/tags/projects/index.html">full list</a> later for some more awesome stuff!</p>
             ]]>
         </content>
     </entry>
@@ -212,8 +214,25 @@
         <content type="html">
             <![CDATA[
                 <p dir="ltr"><strong>During my 5+ years of full-time experience</strong>, I've worked on a wide variety of tasks spanning from data collection, transformation and analysis to presenting insights and onboarding users to interactive tools and reports. The various roles I've held have thought me the importance of <strong>relating data to a business context</strong> and designing products that are tailored to the end user's needs, also when that user is a non-technical person.</p>
-<p dir="ltr">Throughout my experience, I've worked with <strong>many different kinds of data</strong>, including personal data, macroeconomic and political data, data on pricing, survey/cross-sectional data and time series data. Below, you can read more about which <strong>areas MindGraph can help you </strong>in.</p>
-<h2 dir="ltr">Project scoping 🎯</h2>
+<p dir="ltr">Throughout my experience, I've worked with <strong>many different kinds of data</strong>, including personal data, macroeconomic and political data, data on pricing, survey/cross-sectional data and time series data.</p>
+<p dir="ltr">Below, you can read more about which <strong>areas MindGraph can help you </strong>in:</p>
+<div class="post__toc">
+<ul>
+<li><a href="#mcetoc_1hqs2r4ri3e2">Project scoping 🎯</a></li>
+<li><a href="#mcetoc_1hqs2r4ri3e3">Building an ETL data pipeline 🪂</a></li>
+<li><a href="#mcetoc_1hqs2r4ri3e4">Designing interactive BI reports 📊</a></li>
+<li><a href="#mcetoc_1hqs2r4ri3e5">Running statistical analysis and hypothesis testing ⚖️</a></li>
+<li><a href="#mcetoc_1hqs2r4ri3e6">Building predictive statistical/ML models 🔮</a></li>
+<li><a href="#mcetoc_1hqs2r4ri3e7">Onboarding and training of non-technical people 🧑‍🏫</a>
+<ul>
+<li><a href="#mcetoc_1hqs2r4ri3e8">Evaluating and optimising the use of your data-driven insights 🙋‍♀️</a></li>
+<li><a href="#mcetoc_1hqs2r4ri3e9">Introducing leaders to technical terms and concepts 🧑‍💻</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1hqs2r4ri3ea">Need help with your data/analytics project? 🧗</a></li>
+</ul>
+</div>
+<h2 id="mcetoc_1hqs2r4ri3e2" dir="ltr">Project scoping 🎯</h2>
 <p>Whether it comes down to conducting a one-off analytics project, building a data pipeline or designing an interactive business intelligence solution, I can help you <strong>translate your business needs</strong> into a project specification. Together, we can <strong>define the scope</strong> of the final product, estimate the resources needed to achieve your goal, <strong>identify</strong> <strong>opportunities</strong> for improvement and mitigate any potential risks.</p>
 <figure class="post__image"><img loading="lazy"  src="https://cyrilby.github.io/mindgraph/media/posts/4/project-management-7446588_1280.jpg" alt="" width="1280" height="347" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://cyrilby.github.io/mindgraph/media/posts/4/responsive/project-management-7446588_1280-xs.jpg 300w ,https://cyrilby.github.io/mindgraph/media/posts/4/responsive/project-management-7446588_1280-sm.jpg 480w ,https://cyrilby.github.io/mindgraph/media/posts/4/responsive/project-management-7446588_1280-md.jpg 768w"></figure>
 <p><span style="text-decoration: underline;">Project scoping may be related to:</span></p>
@@ -223,7 +242,7 @@
 <li>Running an analytics project involving either statistical analysis or machine learning (ML)</li>
 </ul>
 <p><a href="#">Click here</a> to learn more about project scoping and its benefits.</p>
-<h2>Building an ETL data pipeline 🪂</h2>
+<h2 id="mcetoc_1hqs2r4ri3e3">Building an ETL data pipeline 🪂</h2>
 <p>To be able to transform data into powerful insights, it is necessary to set up a proper <strong>Extract, Transform and Load (ETL)</strong> pipeline. By linking data from different sources and transforming it according to rules relevant for your business, you can <strong>build a solid fundament</strong> for your reporting, business intelligence or statistical/machine learning modelling.</p>
 <figure class="post__image"><img loading="lazy"  src="https://cyrilby.github.io/mindgraph/media/posts/4/circuit-board-1709188_1280.png" alt="" width="1280" height="581" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://cyrilby.github.io/mindgraph/media/posts/4/responsive/circuit-board-1709188_1280-xs.png 300w ,https://cyrilby.github.io/mindgraph/media/posts/4/responsive/circuit-board-1709188_1280-sm.png 480w ,https://cyrilby.github.io/mindgraph/media/posts/4/responsive/circuit-board-1709188_1280-md.png 768w"></figure>
 <p><span style="text-decoration: underline;">Building a data pipeline may consist of:</span></p>
@@ -236,7 +255,7 @@
 <li>Publishing the output data to a final storage solution so they can be reused across projects (e.g. a database, cloud storage, network drive, etc.)</li>
 </ul>
 <p><a href="https://cyrilby.github.io/mindgraph/development-of-etl-pipelines.html">Click here</a> to learn more about ETL pipelines and their benefits.</p>
-<h2>Designing interactive BI reports 📊</h2>
+<h2 id="mcetoc_1hqs2r4ri3e4">Designing interactive BI reports 📊</h2>
 <p>The way to unlocking the potential of your data often starts with <strong>getting to know your data</strong> and what better way to understand your data than to visualise it in a way that's meaningful to your organisation? Whether you want to track <strong>real-time metrics</strong> or follow important developments in quarterly or annual <strong>KPIs</strong>, identify difference between different categories of products, customers or employees, an <strong>interactive, automatically updated report</strong> can facilitate you in achieving your goals.</p>
 <figure class="post__image"><img loading="lazy"  src="https://cyrilby.github.io/mindgraph/media/posts/4/charts-6246450_192ddd0.png" alt="" width="1920" height="386" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://cyrilby.github.io/mindgraph/media/posts/4/responsive/charts-6246450_192ddd0-xs.png 300w ,https://cyrilby.github.io/mindgraph/media/posts/4/responsive/charts-6246450_192ddd0-sm.png 480w ,https://cyrilby.github.io/mindgraph/media/posts/4/responsive/charts-6246450_192ddd0-md.png 768w"></figure>
 <p><span style="text-decoration: underline;">Designing a business intelligence (BI) solution may include:</span></p>
@@ -249,7 +268,7 @@
 <li>Onboarding end users to ensure they can make the best possible use of the new product</li>
 </ul>
 <p><a href="#">Click here</a> to learn more about BI reporting and its benefits.</p>
-<h2>Running statistical analysis and hypothesis testing ⚖️</h2>
+<h2 id="mcetoc_1hqs2r4ri3e5">Running statistical analysis and hypothesis testing ⚖️</h2>
 <p>While data visualisation is a great way to start exploring the potential of your data, a chart is seldom sufficient to tell you <strong>the story behind</strong> what you see on it. To dig deeper and ensure that the insights you're getting have a <strong>solid backing</strong>, it is often useful to do some sort of hypothesis testing or<strong> study the impact</strong> of different factors on the metric you're interested in explaining. With the right kind of statistical analysis, you will not only be able to discern between apparent and real patterns but also <strong>measure important differences and effects</strong> observed in the data.</p>
 <figure class="post__image"><img loading="lazy"  src="https://cyrilby.github.io/mindgraph/media/posts/4/charts-6246450_1920222.png" alt="" width="1920" height="378" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://cyrilby.github.io/mindgraph/media/posts/4/responsive/charts-6246450_1920222-xs.png 300w ,https://cyrilby.github.io/mindgraph/media/posts/4/responsive/charts-6246450_1920222-sm.png 480w ,https://cyrilby.github.io/mindgraph/media/posts/4/responsive/charts-6246450_1920222-md.png 768w"></figure>
 <p><span style="text-decoration: underline;">Running a statistical analysis may include:</span></p>
@@ -262,7 +281,7 @@
 <li>Summing up on the conclusions and communicating them to the relevant stakeholders</li>
 </ul>
 <p><a href="#">Click here</a> to learn more about how statistical analysis can be used in practice to solve real-world problems.</p>
-<h2>Building predictive statistical/ML models 🔮</h2>
+<h2 id="mcetoc_1hqs2r4ri3e6">Building predictive statistical/ML models 🔮</h2>
 <p>Data-mature organisations use a mixture of approaches to <strong>extract the most value</strong> from their data and <strong>stay competitive</strong>. With the recent explosion in generative AI, the edge that applying methods more sophisticated than traditional statistical analysis has been getting the spotlight. In reality, both machine learning (ML) and traditional statistics can be useful when it comes to building predictive models. The choice of whether to use one thing or the other will often depend on your circumstances, such as the quality and quantity of the data you have available. Either way, having a predictive model at your disposal can be a <strong>powerful tool</strong> to <strong>supercharge your decision-making</strong>.</p>
 <figure class="post__image"><img loading="lazy"  src="https://cyrilby.github.io/mindgraph/media/posts/4/charts-6246450_192aaa0.png" alt="" width="1920" height="389" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://cyrilby.github.io/mindgraph/media/posts/4/responsive/charts-6246450_192aaa0-xs.png 300w ,https://cyrilby.github.io/mindgraph/media/posts/4/responsive/charts-6246450_192aaa0-sm.png 480w ,https://cyrilby.github.io/mindgraph/media/posts/4/responsive/charts-6246450_192aaa0-md.png 768w"></figure>
 <p><span style="text-decoration: underline;">Building predictive models may include:</span></p>
@@ -274,16 +293,16 @@
 <li>Setting up a recurrent model training and predictions generation</li>
 </ul>
 <p><a href="#">Click here</a> to learn more about predictive modelling and its benefits.</p>
-<h2>Onboarding and training of non-technical people 🧑‍🏫</h2>
+<h2 id="mcetoc_1hqs2r4ri3e7">Onboarding and training of non-technical people 🧑‍🏫</h2>
 <p>If you find yourself in a situation where either you or someone else in your company feels unable to use the outputs of your analytics/data science team, then you may benefit from a proper introduction to those tools and the concepts they build upon.</p>
 <figure class="post__image"><img loading="lazy"  src="https://cyrilby.github.io/mindgraph/media/posts/4/teacher-7531580_1920.png" alt="" width="1920" height="720" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://cyrilby.github.io/mindgraph/media/posts/4/responsive/teacher-7531580_1920-xs.png 300w ,https://cyrilby.github.io/mindgraph/media/posts/4/responsive/teacher-7531580_1920-sm.png 480w ,https://cyrilby.github.io/mindgraph/media/posts/4/responsive/teacher-7531580_1920-md.png 768w"></figure>
-<h3>Evaluating and optimising the use of your data-driven insights 🙋‍♀️</h3>
+<h3 id="mcetoc_1hqs2r4ri3e8">Evaluating and optimising the use of your data-driven insights 🙋‍♀️</h3>
 <p>You may have an excellent data set-up at your organisation and use the most cutting-edge technologies to derive insights but if people are not able to use these tools or understand how you've arrived at your conclusion, you may not be using your data to your full potential. <strong>Explainability</strong> is a particular <strong>challenge</strong> for machine learning (ML) models but can also extend to interactive reporting tools or even statistical analysis, where data and results may easily be misinterpreted.</p>
 <p>With the right kind of <strong>communication</strong> and <strong>user onboarding</strong>, you can minimise the risk that your work may end up unused or, perhaps even worse, used in the wrong way, leading to making harmful decisions for your organisation, its customers and employees.</p>
-<h3>Introducing leaders to technical terms and concepts 🧑‍💻</h3>
+<h3 id="mcetoc_1hqs2r4ri3e9">Introducing leaders to technical terms and concepts 🧑‍💻</h3>
 <p>Alternatively, you may find yourself <strong>in charge of a highly technical team</strong> even though you may not necessarily have the same background as them. Your excellent leadership skills will go a long way in ensuring the team has the right inputs to accomplish their goals, but you may feel a bit uneasy about all the unfamiliar concepts they casually throw around you. If you feel like you'd like to <strong>learn more about the tools your team is using</strong> but are limited on time or fear falling down the trap of getting bogged down by all the details, you may benefit from a <strong>proper introduction</strong> to the tools and concepts used in modern data management.</p>
 <p>Whether you'd like to know more about the <strong>basics of programming</strong> using <strong>R</strong> or <strong>Python</strong>, dive deeper into the obvious and more obscure functionalities offered by <strong>Excel </strong>or <strong>Power BI</strong>, MindGraph can support you with getting the right amount of technical knowledge needed to better understand and support your team.</p>
-<h2>Need help with your data/analytics project? 🧗</h2>
+<h2 id="mcetoc_1hqs2r4ri3ea">Need help with your data/analytics project? 🧗</h2>
 <figure class="post__image"><img loading="lazy"  src="https://cyrilby.github.io/mindgraph/media/posts/4/brain-7803655_1280.jpg" alt="" width="1280" height="853" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://cyrilby.github.io/mindgraph/media/posts/4/responsive/brain-7803655_1280-xs.jpg 300w ,https://cyrilby.github.io/mindgraph/media/posts/4/responsive/brain-7803655_1280-sm.jpg 480w ,https://cyrilby.github.io/mindgraph/media/posts/4/responsive/brain-7803655_1280-md.jpg 768w"></figure>
 <p>Please reach out to me at <a href="mailto:kirilboyanovbg@gmail.com">kirilboyanovbg@gmail.com </a>for a <strong>free, no-strings-attached 30 minutes meeting</strong> where we can discuss your needs and do some initial project scoping.</p>
             ]]>
