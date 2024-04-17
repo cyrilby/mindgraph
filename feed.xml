@@ -3,7 +3,7 @@
     <title>MindGraph</title>
     <link href="https://cyrilby.github.io/mindgraph/feed.xml" rel="self" />
     <link href="https://cyrilby.github.io/mindgraph" />
-    <updated>2024-04-17T22:37:52+02:00</updated>
+    <updated>2024-04-17T22:50:04+02:00</updated>
     <author>
         <name>Kiril</name>
     </author>
@@ -219,9 +219,28 @@
 <li><strong>LinkedIn</strong>: you're also welcome to contact me via a private message. You can find my LinkedIn profile <a href="https://www.linkedin.com/in/kirilboyanov/" target="_blank" rel="noopener noreferrer">here</a>.</li>
 <li><strong>GitHub</strong>: my <a href="https://github.com/cyrilby" target="_blank" rel="noopener noreferrer">GitHub page</a> contains demos of some of the projects I've worked on in my spare time. Feel free to explore and get an idea of what I'd be able to do for you.</li>
 </ul>
+<form accept-charset="UTF-8" action="https://forms.zohopublic.eu/mindgraph/form/Websitecontactform/formperma/QnQHOBZ4V-TYVKPr725P-7iIjfnttLDKw1yTYx0rJ44/htmlRecords/submit" enctype="multipart/form-data" method="POST">
 <h2>Contact form</h2>
 <p>You can also get in touch by filling out the form below:</p>
-<div class="post__iframe"><iframe loading="lazy" style="height: 800px; width: 99%; border: none;" aria-label="Contact" frameborder="0" src="https://forms.zohopublic.eu/mindgraph/form/Websitecontactform/formperma/2clB-YipjxDt87GftgIvJlMlDIIx96gS8saD0KaCs2E"></iframe></div>
+</form><form accept-charset="UTF-8" action="https://forms.zohopublic.eu/mindgraph/form/Websitecontactform/formperma/QnQHOBZ4V-TYVKPr725P-7iIjfnttLDKw1yTYx0rJ44/htmlRecords/submit" enctype="multipart/form-data" method="POST">
+<p><!--Name--> <label> First Name <em>*</em></label></p>
+<p><input maxlength="255" name="Name_First" type="text" placeholder=""></p>
+<p><label>Last Name</label></p>
+<p><input maxlength="255" name="Name_Last" type="text" placeholder=""></p>
+<p><label>Email <em>*</em></label></p>
+<p><input maxlength="255" name="Email" type="text" value="" placeholder=""></p>
+<p><!--Dropdown--> <label> Subject <em>*</em> </label></p>
+<select name="Dropdown">
+<option selected="selected" value="-Select-">-Select-</option>
+<option value="General inquiries">General inquiries</option>
+<option value="Free meeting request">Free meeting request</option>
+<option value="Inquiry about MindGraph's own projects">Inquiry about MindGraph's own projects</option>
+</select>
+<p><!--Multi Line--></p>
+<p><label> Please describe your inquiry in further details</label></p>
+<p><textarea style="width: 398px; height: 106px;" maxlength="65535" name="MultiLine" placeholder=""></textarea></p>
+<p><button type="submit"><em>Submit</em></button></p>
+</form>
             ]]>
         </content>
     </entry>
